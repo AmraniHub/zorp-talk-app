@@ -27,4 +27,8 @@ The link always gives the newest version. Install it on **both** phones.
 
 **Range:** about 100 m in the open over Wi-Fi Direct, 10 to 30 m over Bluetooth, less through walls.
 
+**New in 1.1:** a much clearer voice (cleaned, louder, compressed so it stays smooth over Bluetooth)
+and a louder speaker. Settings > **Test my voice** lets you hear yourself as the other phone does.
+Update **both** phones to 1.1 for the new sound.
+
 On Xiaomi phones, allow **Autostart** and set Battery to **No restrictions** for Zorp Talk.
